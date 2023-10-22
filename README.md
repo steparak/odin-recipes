@@ -1,0 +1,1 @@
+Webpages structure will be an index page with link to few recipe
